@@ -1,1 +1,2 @@
-As a QA Engineer navigating the world of version control with Git, it’s crucial to grasp the nuances between two commonly used commands: git merge and git rebase. While both commands are employed to integrate changes from one branch into another, they follow distinct strategies. Let's delve into the key differences between Git Merge and Git Rebase.
+new test
+hello from test branch 
